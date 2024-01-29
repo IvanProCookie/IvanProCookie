@@ -1,6 +1,6 @@
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
-
-<br/>
+### Hello!  
+**Welcome to my github profile!
+(Note: This is still in the making..
 
 
 <a href="https://twitter.com/sakigo_09">
