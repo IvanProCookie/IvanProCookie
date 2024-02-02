@@ -1,17 +1,17 @@
 # Ivanprocookie's Profile Page  
 
 ## About Me  
-> **Hello!**  
-> **Welcome to my github profile!**  
-> **My Username For Everything Is Either "Ivanprocookie" Or "IvanProCookie", Or In Rare Cases, "Ivanprocookie*e*"**  
-> **(Note: This is still in the making..)**  
+- **Hello!**  
+- **Welcome to my github profile!**  
+- **My Username For Everything Is Either "Ivanprocookie" Or "IvanProCookie", Or In Rare Cases, "Ivanprocookie*e*"**
+> ***(Note: This is still in the making..)***  
 
 <a href="https://twitter.com/ivanprocookie">
-<img align="left" alt="Ivanprocookie's Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<h3><- My Twitter</h3>
+<img align="middle" alt="Ivanprocookie's Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<h3>My Twitter - ></h3>
 </a>
 
-## **Talking about Personal Stuffs:**
+## **My Intrests/Things I like**  
 
 - 🔭 I’m currently Intern at CodeCrunch.
 - 🌱 I’m currently learning Angular.
@@ -24,15 +24,14 @@
 
 
 
-**Community**
+## **Community**
 - Google Developer Group Bengaluru
 - HackClub NMIT
 - Tensorflow Community Bengaluru
 - Girlscript Foundation
 - Coding Ninja
 
-**Languages and Tools:**
-
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
